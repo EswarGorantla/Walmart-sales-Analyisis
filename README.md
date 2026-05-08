@@ -3,6 +3,9 @@
 ## Project Overview
 This project provides a comprehensive analysis of Walmart sales data, leveraging **Python** for rigorous data cleaning and **MySQL** for deep-dive business intelligence. The goal is to identify trends, optimize shifts, and analyze profitability across different branches and product categories.
 
+## Project Pipeline
+![Walmart Data Pipeline](workpipeline.png)
+
 ## Project Workflow
 
 ### 1. Data Cleaning & Exploration (Python/Jupyter)
