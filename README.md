@@ -19,7 +19,6 @@ Before moving the data into a database, I used **Pandas** to ensure data integri
 Exploratory Data Analysis (EDA) was performed to visualize key patterns:
 * **Profit by Category**: Ranked the most lucrative product segments.
 * **Payment Preferences**: Visualized the distribution of E-wallets, Cash, and Credit Cards.
-* **Rating Consistency**: Used Box Plots to check customer satisfaction across different cities.
 * **Correlation Heatmap**: Analyzed the relationship between price, quantity, and margins.
 
 ### 3. Database Pipeline (SQLAlchemy)
